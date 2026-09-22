@@ -24,7 +24,11 @@ else if (choice == 4){
 
                      }
 else if (choice == 5){
+<<<<<<< HEAD
                                  printf("Now the outcome becomes : %d",Remainder);
+=======
+                                 printf("Now the outcome becomes : %d",remainder);
+>>>>>>> 219f1d3 (FOCP)
 
                      }
 else
