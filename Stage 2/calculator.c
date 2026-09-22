@@ -24,7 +24,7 @@ else if (choice == 4){
 
                      }
 else if (choice == 5){
-                                 printf("Now the outcome becomes : %d",remainder);
+                                 printf("Now the outcome becomes : %d",Remainder);
 
                      }
 else
