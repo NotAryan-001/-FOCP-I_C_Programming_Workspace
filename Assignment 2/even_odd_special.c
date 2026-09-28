@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main(){
+int n;
+printf("Enter the integer here :");
+scanf("%d",&n);
+if (n%2==0 && n%5==0){
+                        printf("\nSpecial");
+                     }
+    else if(n%2==0) 
+                     {
+
+                        printf("Even");
+                     }
+    else if(n%5==0) 
+                     {
+
+                        printf("Five");
+                     }
+    else            
+                     {
+
+                        printf("Odd/other");
+                     }
+
+
+
+return 0;    
+}
