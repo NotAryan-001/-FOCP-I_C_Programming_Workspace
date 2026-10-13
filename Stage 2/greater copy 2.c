@@ -1,5 +1,5 @@
 #include <stdio.h>
-// else if is kind of leader which checks every code individually 
+// else if is kind of ladder which checks every code individually 
 int main(){
 int a,b,c;
  printf("Enter the number here :");
