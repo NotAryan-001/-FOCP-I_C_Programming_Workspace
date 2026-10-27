@@ -1,7 +1,7 @@
 #include <stdio.h>
 void swap(int *xp,int *yp){
 
-    *xp=*yp;
+    *xp=*xp+*yp;
     *yp=;
 }
 int main()
